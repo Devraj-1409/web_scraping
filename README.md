@@ -33,3 +33,4 @@ This project demonstrates the process of web scraping using Python and Pandas. T
 - Used Pandas to save the cleaned data into a `data.csv` file.
 
 ## Final Dataset
+![dataframe](web_scraping_output.png)
